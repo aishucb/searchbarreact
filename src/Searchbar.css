@@ -1,0 +1,56 @@
+body
+{
+    background-color: rgb(101, 66, 19);
+}
+.bigblue {
+    color: rgb(55, 58, 62);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    padding-right: 15px;
+    font-family: Arial;
+    list-style-type:none;
+    width: 300px;
+    background-color: rgba(150, 152, 154, 0.114);
+    float: right;
+    
+  }
+
+.button2 {
+
+  background-color: rgba(51, 51, 51, 0.05);
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  height: 50px;
+}
+.inputext
+{
+    height: 49px;
+    border-radius: 15px;
+    border: .5px rgba(90, 84, 84, 0.406) solid;
+    width: 70%;
+    padding-left: 20px;
+    background-color: blue;
+}
+.button1
+{
+  border: white 1px solid;
+  background-color: white;
+}
